@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+pymysql
+sqlalchemy
+gunicorn
